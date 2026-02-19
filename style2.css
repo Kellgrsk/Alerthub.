@@ -1,0 +1,33 @@
+h1{
+font-size: 50px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(4, 4, 143);
+
+}
+
+
+
+
+h2{ font-size: x-large;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+body{
+    background-color:rgb(255, 0, 0)
+}
+
+button{
+     background-color: rgb(241, 241, 241);
+    color: darkblue;
+    height: 100px;
+    width: 250px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}  
+
+
